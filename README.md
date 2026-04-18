@@ -32,6 +32,67 @@ Attached here is the SLEAP based command lines that was used to do high performa
 [DeepFaceMouse_HPC_Script.txt](https://github.com/user-attachments/files/24003486/DeepFace_Mouse_HPC_Script.txt)
 
 
+## Data Accessibility
+
+DOI links to the data used in the paper.
+
+[Figure 1b](https://doi.org/10.5281/zenodo.19636408)
+
+[Figure 1c and d](https://doi.org/10.5281/zenodo.19635401)
+
+[Figure 2c 6s DeepFaceMouse Results](https://doi.org/10.5281/zenodo.19636758)
+
+[Figure 2c 6s DeepLabCut Results](https://doi.org/10.5281/zenodo.19636860)
+
+[Figure 2c 6s Facemap Basemodel Results](https://doi.org/10.5281/zenodo.19636875)
+
+[Figure 2c 6s Facemap Refined Results](https://doi.org/10.5281/zenodo.19636972) 
+
+[Figure 2c 6f DeepFaceMouse Results](https://doi.org/10.5281/zenodo.19636979)
+
+[Figure 2c 6f DeepLabCut Results](https://doi.org/10.5281/zenodo.19637002)
+
+
+
+[Figure 2c 6f Facemap Refined Results](https://doi.org/10.5281/zenodo.19637463)
+
+[Figure 2c 8m DeepFaceMouse Results](https://doi.org/10.5281/zenodo.19637052)
+
+[Figure 2c 8m DeepLabCut Results](https://doi.org/10.5281/zenodo.19637502)
+
+[Figure 2c 8m Facemap Basemodel Results](https://doi.org/10.5281/zenodo.19637094)
+
+[Figure 2c 8m Facemap Refined Results](https://doi.org/10.5281/zenodo.19637132)
+
+[Figure 3 DeepFaceMouse 180 Image Model](https://doi.org/10.5281/zenodo.19644500)
+
+[Figure 3 DeepFaceMouse 900 Image Model](https://doi.org/10.5281/zenodo.19644438)
+
+[Figure 3 DeepFaceMouse 1800 Image Model](https://doi.org/10.5281/zenodo.19644510)
+
+[Figure 2c DeepFaceMouse 100Hz Model](https://doi.org/10.5281/zenodo.19644562)
+
+[Figure 3 6s Brain Activity Results](https://doi.org/10.5281/zenodo.19637197)
+
+[Figure 3 6f Brain Activity Results](https://doi.org/10.5281/zenodo.19637200)
+
+[Figure 3 8m Brain Activity Results](https://doi.org/10.5281/zenodo.19644431)
+
+
+
+[Figure 3 6f Brain Activity Data](https://doi.org/10.5281/zenodo.19637233)
+
+[Figure 3 8m Brain Activity Data 20 Hz](https://doi.org/10.5281/zenodo.19637381)
+
+[Figure 3 8m Brain Activity Data 100 Hz](https://doi.org/10.5281/zenodo.19637396)
+
+[Figure 4 Disease Animal Results](https://doi.org/10.5281/zenodo.19637137) 
+
+[Figure 4 DeepFaceMouse Social Interaction Model](https://doi.org/10.5281/zenodo.19644730) 
+
+[Main Code Repository](https://doi.org/10.5281/zenodo.19644866) 
+
+
 ## Troubleshoot
 If you have a technical question with either [`mediaGUI`](https://github.com/khicken/mediaGUI) or [`sleapGUI`](https://github.com/khicken/sleapGUI), then feel free to request a "New Issue" in the "Issues" section for the respective GUI. The issue will be addressed accordingly. 
 
