@@ -52,7 +52,7 @@ DOI links to the data used in the paper.
 
 [Figure 2c 6f DeepLabCut Results](https://doi.org/10.5281/zenodo.19637002)
 
-
+[Figure 2c 6f Facemap Basemodel Results](https://doi.org/10.5281/zenodo.19646814)
 
 [Figure 2c 6f Facemap Refined Results](https://doi.org/10.5281/zenodo.19637463)
 
@@ -78,7 +78,7 @@ DOI links to the data used in the paper.
 
 [Figure 3 8m Brain Activity Results](https://doi.org/10.5281/zenodo.19644431)
 
-
+[Figure 3 6s Brain Activity Data](https://doi.org/10.5281/zenodo.19646884)
 
 [Figure 3 6f Brain Activity Data](https://doi.org/10.5281/zenodo.19637233)
 
