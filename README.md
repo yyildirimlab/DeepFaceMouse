@@ -78,9 +78,9 @@ DOI links to the data used in the paper.
 
 [Figure 3 8m Brain Activity Results](https://doi.org/10.5281/zenodo.19644431)
 
-[Figure 3 6s Brain Activity Data](https://doi.org/10.5281/zenodo.19646884)
+[Figure 3 6s Brain Activity Data 20 Hz](https://doi.org/10.5281/zenodo.19646884)
 
-[Figure 3 6f Brain Activity Data](https://doi.org/10.5281/zenodo.19637233)
+[Figure 3 6f Brain Activity Data 20 Hz](https://doi.org/10.5281/zenodo.19637233)
 
 [Figure 3 8m Brain Activity Data 20 Hz](https://doi.org/10.5281/zenodo.19637381)
 
