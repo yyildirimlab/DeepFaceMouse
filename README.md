@@ -16,9 +16,7 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 **Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
 
-## Comparision Video Between DeepFace Mouse, DeepLabCut (DLC), Facemap Basemodel, and Facemap Refined
 
-https://github.com/user-attachments/assets/117a0c51-73cd-4746-b103-a9a76d137932
 
 ## Usage Demo
 Tutorial Videos to Replicate DeepFace Mouse using your data:
