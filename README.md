@@ -18,6 +18,7 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 ## DeepFaceMouse Pretrained Model
 
+[Download Here](https://doi.org/10.5281/zenodo.20583481)
 
 
 ## Usage Demo
