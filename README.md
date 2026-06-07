@@ -16,11 +16,12 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 **Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
 
+## DeepFaceMouse Pretrained Model
+
 
 
 ## Usage Demo
 Tutorial Videos to Replicate DeepFace Mouse using your data:
-
 
 [DeepFaceMouse Tutorial Playlist](https://youtube.com/playlist?list=PLdt5kwsCtktyiuk0OApIQvmhf9sebUfou&si=Aw92YegW4PX1jOuB)
 
