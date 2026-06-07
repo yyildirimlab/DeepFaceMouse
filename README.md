@@ -20,6 +20,7 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 [Download Here](https://doi.org/10.5281/zenodo.20583481)
 
+Note: Make sure you have the SLEAP Version 1.4.1 downloaded 
 
 ## Usage Demo
 Tutorial Videos to Replicate DeepFace Mouse using your data:
