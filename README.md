@@ -1,5 +1,5 @@
 # DeepFaceMouse
-Directory to two software tools used in ["DeepFace: A High-Precision and Scalable Deep Learning Pipeline for Predicting Large-Scale Brain Activity from Facial Dynamics in Mice"](https://pubmed.ncbi.nlm.nih.gov/40661434/).
+Directory to two software tools used in ["DeepFaceMouse enables scalable prediction of large-scale brain activity from facial dynamics in mice"](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00180-3).
 
 Publish in Dr. Murat Yildirim's Lab at the Department of Neurosciences at  Cleveland Clinic Research 
 
