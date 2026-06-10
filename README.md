@@ -1,7 +1,7 @@
 # DeepFaceMouse
 Directory to two software tools used in ["DeepFaceMouse enables scalable prediction of large-scale brain activity from facial dynamics in mice"](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00180-3).
 
-Publish in Dr. Murat Yildirim's Lab at the Department of Neurosciences at  Cleveland Clinic Research 
+Published in Dr. Murat Yildirim's Lab at the Department of Neurosciences at  Cleveland Clinic Research (https://www.lerner.ccf.org/neurosciences/yildirim/) 
 
 <img width="1804" height="784" alt="image" src="https://github.com/user-attachments/assets/03cb4b01-2f87-4caf-9a33-62aa60626b6f" />
 
