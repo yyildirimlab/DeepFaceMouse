@@ -87,7 +87,7 @@ Note: In the tutorial, 5 videos were used to make the concatenated video. Theref
 
 In the paper, 90 videos were used to create a concatenated video for DeepFaceMouse data, therefore 1800 images were used to label. 
 
-9. Go to the fist blue box on the bottom left part of the GUI, which selects the first image that is needed to be labeled. Click **New Instance** on the bottom right, then it will show the points that have the edge connections. Drag the points to the desired location of the pupil.
+9. Go to the fist blue box on the bottom left part of the GUI, which selects the first image that is needed to be labeled. Click **New Instance** on the bottom right, then it will show the points that have the edge connections. Drag the points to the desired location of the face.
 
 10. Click the next blue box and select **New Instance**, it will generate the keypoints that were used in the previous frame. Just drag them to the new facial location, and continue this process until all of the blue boxes have the labeled images.
 
@@ -103,7 +103,7 @@ In the paper, 90 videos were used to create a concatenated video for DeepFaceMou
 
 16. Once the model parameters are set, click **Run** on the Bottom Right.
 
-**Video Part 3 Summary - Large Scale Pupil Data Analysis**
+**Video Part 3 Summary - Large Scale Face Data Analysis**
 
 1. Open Anaconda Prompt
 
@@ -127,7 +127,7 @@ In the paper, 90 videos were used to create a concatenated video for DeepFaceMou
 
 6. Once the video analysis is ready, click **Run All** to do the data analysis.
 
-7. The output will be the following: SLEAP (.slp) file, Pupil Keypoint CSV file for further processing, and labeled video.
+7. The output will be the following: SLEAP (.slp) file, Face Keypoint CSV file for further processing, and labeled video.
 
 
 ## HPC Code
